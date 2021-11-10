@@ -23,3 +23,13 @@ a {
     border-radius: 5px;
     font-size: 20px;
 }
+a:hover {
+  background: #0431B4;
+}
+.btn-1 {
+background: #F98909;
+}
+
+.btn-1:hover {
+background: #DC6C11;
+}
